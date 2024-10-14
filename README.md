@@ -23,7 +23,6 @@ The dataset used in this project is the [Chest X-ray Images (Pneumonia) dataset]
 ### Directory Structure
 /content/drive/My Drive/chest_xray/ ├── train/ │ ├── NORMAL/ │ └── PNEUMONIA/ ├── val/ │ ├── NORMAL/ │ └── PNEUMONIA/ └── test/ ├── NORMAL/ └── PNEUMONIA/
 
-
 ## Installation
 To run this project, make sure you have the following installed:
 - Python 3.x
@@ -38,7 +37,6 @@ You can install the required libraries using pip:
 pip install tensorflow numpy matplotlib scikit-learn
 
 ## Usage
-
 Mount your Google Drive in Google Colab.
 Place your chest X-ray dataset in the specified directory.
 Run the provided code to train the model.
